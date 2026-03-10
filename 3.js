@@ -1,1 +1,1 @@
-console.log("Cambios realizados por el programador B");
+console.log("Cambios realizados por el programador A");
